@@ -83,3 +83,5 @@ Plugins/Developer/*
 # Assets
 Content/Assets/*
 Content/Starter/*
+Content/__ExternalActors__/*
+Content/__ExternalObjects__/*
